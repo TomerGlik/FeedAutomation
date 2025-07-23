@@ -69,5 +69,6 @@ ASCII art banner included — because why not? 😎
 
 .gitignore excludes sensitive .txt, .csv, and Logs/ folder
 
-🙋‍♂️ Author
+###🙋‍♂️ Author
+
 Made by Tomer Glik
